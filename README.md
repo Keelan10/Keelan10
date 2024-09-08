@@ -10,7 +10,7 @@ I’m interested in
 
 
 <!-- [Click to view my blog](https://keelancannoo.blogspot.com/) -->
-<a href="https://keelancannoo.blogspot.com/" target="_blank">Click to view my blog</a>
+<a href="https://keelancannoo.com/" target="_blank">Click to view my blog</a>
 <!---
 Keelan10/Keelan10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
